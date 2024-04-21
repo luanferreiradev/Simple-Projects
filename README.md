@@ -5,7 +5,7 @@ Welcome to the Simple Projects repository! This is where I'll be storing various
 ## Projects 📁
 
 - **AreaFigurasGeometricas**: This folder contains projects related to calculating areas of geometric figures.
-
+- **Banking System**: simulation of a bank system where the person enters data and a number is created for their account
 <!-- 
 Feel free to add more folders for future projects! 🚀
 -->
